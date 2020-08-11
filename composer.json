@@ -1,0 +1,5 @@
+ {
+     "name": "myparkfolio/jars-json-simple",
+     "description": "This will provide the libraries for JSON manipulations",
+     "type": "library"
+ }
